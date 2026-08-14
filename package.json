@@ -1,0 +1,19 @@
+{
+  "name": "menu-dia",
+  "version": "1.0.0",
+  "description": "Daily menu application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "menu",
+    "restaurant"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
